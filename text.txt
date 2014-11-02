@@ -10,9 +10,4 @@ hustunique
 
 a new day
 
-<<<<<<< HEAD
-girl
-=======
-beautiful
->>>>>>> feature
 beautiful girl
